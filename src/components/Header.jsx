@@ -6,7 +6,7 @@ export default function Header() {
       >
         <div className="hero-logo xyz-nested"></div>
         <p className="hero-text xyz-nested">
-          Curabitur blandit tempus porttitor. Morbi leo risus.
+          This is an animation!
         </p>
       </div>
     );
