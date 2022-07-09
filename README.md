@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![animxyz-body-rendered-webpage](https://user-images.githubusercontent.com/94988620/178114082-f3d1f485-70e1-478d-90b5-44edb0d6cb75.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
